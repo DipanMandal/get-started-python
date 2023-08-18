@@ -4,6 +4,8 @@ import atexit
 import os
 import json
 
+#MLops assignment file change 2: adding comments in hello.py
+
 app = Flask(__name__, static_url_path='')
 
 db_name = 'mydb'
